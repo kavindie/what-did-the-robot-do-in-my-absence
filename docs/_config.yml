@@ -1,6 +1,6 @@
-title: 'What did the Robot do in my Absence?'
-description: Video Foundation Models to Enhance Intermittent Supervision
+title: "'What did the Robot do in my Absence?' Video Foundation Models to Enhance Intermittent Supervision"
+description: The project page for the research paper.
 
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
