@@ -1,4 +1,4 @@
-# ‘What did the Robot do in my Absence?’ Video Foundation Models to Enhance Intermittent Supervision
+# ‘What did the Robot do in my Absence?’ \n Video Foundation Models to Enhance Intermittent Supervision
 
 ## [Kavindie Katuwandeniya](https://people.csiro.au/k/k/kavi-katuwandeniya), [Leimin Tian](https://tianleimin.github.io/), and [Dana Kulic](https://www.monash.edu/engineering/danakulic).
 
