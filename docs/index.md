@@ -2,6 +2,8 @@
 
 ## [Kavindie Katuwandeniya](https://people.csiro.au/k/k/kavi-katuwandeniya), [Leimin Tian](https://tianleimin.github.io/), and [Dana Kulic](https://www.monash.edu/engineering/danakulic).
 
+[Preprint can be found in arxiv.](https://arxiv.org/abs/2411.10016)
+
 ## Abstract
 This paper investigates the application of Video
 Foundation Models (ViFMs) for generating robot data summaries
