@@ -2,7 +2,7 @@ title: |
   "'What did the Robot do in my Absence?'\n
   Video Foundation Models to Enhance Intermittent Supervision"
 
-description: The project page for the research paper.
+description: This work has been submitted to the IEEE RAL. [Preprint can be found in arxiv.](https://arxiv.org/abs/2411.10016)
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
