@@ -1,0 +1,6 @@
+text='summarise all the objects seen in the order they are seen in.'
+text='show me all images involving a dummy wearing a green high-vis jacket'
+text='show me all images with a white helmet in them'
+text='show me all images with a blue barrel in them'
+text='show me all images with stairs in them'
+text='show me all images with doors in them'

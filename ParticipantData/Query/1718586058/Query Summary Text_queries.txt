@@ -1,0 +1,6 @@
+text='How many Blue Rope Bundle in the video'
+text='How many Fire Extinguisher in the video'
+text='how many drill in this video'
+text='In the first three-way junction you get inside the tunnel, which direction do you choose to explore?'
+text='Do u encounter a path blocked by rocks'
+text='Do you climb any stairs during the run?'

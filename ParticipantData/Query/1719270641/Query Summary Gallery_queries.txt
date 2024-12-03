@@ -1,0 +1,8 @@
+text='How many Artificial Bamboo Trees were detected?'
+text='How many white helmets were detected?'
+text='How many black barrel were detected?'
+text='How many robots did enter the tunnel?'
+text='Did the robot encountered a path blocked by rocks?'
+text='Did the robot encountered a path blocked by rocks?'
+text='Did encountered a path blocked?'
+text='Did I knock down a door?'

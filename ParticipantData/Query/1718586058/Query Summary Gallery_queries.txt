@@ -1,0 +1,7 @@
+text='artificial bamboo tree '
+text='White Helmet'
+text='black barrel'
+text='who enters tunnel before'
+text='robots enter before'
+text='path blocked by rocks'
+text='door'

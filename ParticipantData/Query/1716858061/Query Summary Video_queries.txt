@@ -1,0 +1,7 @@
+text='Show me a robot helping daily tasks'
+text='How many blue barrels appear on the video'
+text='How many dummies appear on the video'
+text='How many white helmets appear on the video'
+text='show me the initial 2 minutes'
+text='Show me when I climb any stairs'
+text="Show me when I'm entering through doors "

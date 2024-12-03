@@ -1,0 +1,8 @@
+text='show me all the blue barrels'
+text='show me all the dummies or humans wearing a green jacket'
+text='find me all the white helmets'
+text='white helmets'
+text='robots'
+text='robots in the first 15 minutes of the video'
+text='stairs'
+text='doors'

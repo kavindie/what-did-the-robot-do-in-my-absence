@@ -1,0 +1,7 @@
+text='How many backpacks were there?'
+text='How many blue ropes were there?'
+text='How many fire extinguishers were there?'
+text='How many drills can be seen in the video?'
+text='What was the route of the robot in terms of left, right etc.'
+text='In the first three-way junction you get inside the tunnel, which direction do you choose to explore?'
+text='Do you climb any stairs during the run?'

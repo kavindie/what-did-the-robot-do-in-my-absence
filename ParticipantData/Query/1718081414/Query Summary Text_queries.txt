@@ -1,0 +1,7 @@
+text='In the video footage how many blue rope bundles were observed'
+text='In the video footage how many fire extinguishers were observed'
+text='In the video footage how many orange drills were observed'
+text='In the video footage how many blue ropes were observed'
+text='At the first junction which direction, (left, centre, right) was taken?'
+text='Was the path blocked at any point? If so by what?'
+text='What blocked the path? Was it rocks?'

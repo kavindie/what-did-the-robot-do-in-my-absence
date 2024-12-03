@@ -1,0 +1,6 @@
+text='How many blue barrels did I detected?'
+text='How many dummies did I detect?'
+text='How many white helmets did I detect?'
+text='Who did enter the tunnel before I?'
+text='Did I climb any stairs?'
+text='Did I knock down a door?'

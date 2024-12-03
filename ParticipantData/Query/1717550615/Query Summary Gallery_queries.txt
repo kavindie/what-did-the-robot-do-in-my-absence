@@ -1,0 +1,3 @@
+text='Can you show me the following items if present in the video:\n1. Bamboo tree\n2. White helmet\n3. Black barrel'
+text='In the following video do you see a bamboo tree? The tree might look artificial'
+text='Do you see any rocks blocking a path? These must be in the way not part of the walls'

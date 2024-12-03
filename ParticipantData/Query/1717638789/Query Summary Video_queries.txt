@@ -1,0 +1,7 @@
+text='how many lights in there'
+text='how many helmets'
+text='blue barrel'
+text='stairs'
+text='door'
+text='white helmet'
+text='dummy wearing a green high-vis jacket'

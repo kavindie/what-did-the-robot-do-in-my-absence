@@ -1,0 +1,7 @@
+text='how many blue ropes are in the video'
+text='how many fire extinguishers are in the video and what are their timestamps'
+text='how many drills'
+text='do I get blocked by rocks or climb stairs'
+text='do I get blocked by rocks and turn around during the video?'
+text='do I climb a set of stairs in the video'
+text='when do I climb the stiars'

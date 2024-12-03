@@ -1,0 +1,6 @@
+text='Show me all the footage you have of blue barrels, appended one after the other'
+text='Show me all the footage of barrels'
+text='Show me footage of a person in a green high visibility jacket'
+text='Show me footage of where light green appears in the video'
+text='show me footage of stairs'
+text='Show many any footage of a white helmet/hard hat'

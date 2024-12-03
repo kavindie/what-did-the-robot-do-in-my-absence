@@ -1,0 +1,8 @@
+text='Show me when I encounter artificial bamboo trees'
+text='Show me when I encounter white helmets'
+text='Show me when I encounter white helmets'
+text='Show me when I encounter black barrels'
+text='Show me who enters the tunnel before me'
+text='Show me the images of moving objects infront of me at the begining of the video'
+text='Show me when I encounter a path blocked by rocks'
+text='Show me if I knock down a door while trying to to pass through it'

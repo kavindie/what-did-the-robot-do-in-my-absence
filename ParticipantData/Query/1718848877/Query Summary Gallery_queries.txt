@@ -1,0 +1,6 @@
+text='Show artificial bamboo trees'
+text='Show white helmets'
+text='Show black barrels encountered in the tunnel'
+text='Show white helmets encountered in the tunnel'
+text='paths blocked by rocks'
+text='Doors knocked down inside the tunnel'

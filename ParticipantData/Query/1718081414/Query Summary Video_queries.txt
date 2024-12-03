@@ -1,0 +1,6 @@
+text='Please generate me a video summary showing all blue barrels from the full footage'
+text='Please generate me a video summary showing all types of barrels from the full footage'
+text='Please generate me a video summary showing all objects that look similar to a dummy (person) from the full footage'
+text='Please generate me a video summary showing all objects that look similar to a helmet from the full footage'
+text='Show me white helmets'
+text='Sumarize the first 10 minutes of the video'

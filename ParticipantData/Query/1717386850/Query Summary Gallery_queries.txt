@@ -1,0 +1,4 @@
+text='Can you show me an image including the bamboo tree with a time stamp'
+text='can you show me all images with a white helmet'
+text='can you show me all images with robots outside the tunnel'
+text='can you show me all images with a black barrel'

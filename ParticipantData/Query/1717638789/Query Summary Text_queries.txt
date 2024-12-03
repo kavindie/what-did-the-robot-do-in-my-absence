@@ -1,0 +1,6 @@
+text='is there any blue rope bundle in the video?'
+text='how many of them?'
+text='how many fire extinguisher and drills in the video?'
+text='which way the robot goes in the first three-way junction'
+text='is there any path blocked by rocks?'
+text='does the robot climb stairs during the run?'

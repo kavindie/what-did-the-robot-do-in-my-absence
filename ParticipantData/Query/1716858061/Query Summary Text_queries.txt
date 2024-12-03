@@ -1,0 +1,7 @@
+text='How many blue rope bundles did you observe?'
+text='How many fire extinguishers did you observe?'
+text='How many drills did you observe?'
+text='In the first three way junction I get inside the tunnel, which direction do I choose to explore?'
+text='Explain me what happens at the first three way junction that I encounter after getting inside the tunnel?'
+text='Do I encounter a path blocked by rocks?'
+text='Do I climb any stairs during the run?'

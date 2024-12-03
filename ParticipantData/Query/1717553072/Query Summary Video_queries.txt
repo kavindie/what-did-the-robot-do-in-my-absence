@@ -1,0 +1,8 @@
+text='blue barrel'
+text='high-vis jacket'
+text='person'
+text='dummy'
+text='white helmet'
+text='stairs'
+text='door'
+text='doorway'

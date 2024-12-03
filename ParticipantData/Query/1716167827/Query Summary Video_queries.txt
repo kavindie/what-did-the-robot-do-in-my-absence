@@ -1,0 +1,7 @@
+text=' Do you climb any stairs during the run? '
+text=' Who enters the tunnel before you? '
+text=' Do you knock down a door while trying to pass through it? '
+text='how many white helmets in the vide'
+text='any blue barrels in the video'
+text='any barrels in the video'
+text='any dummys in the video wearing  a green high-vis jacket'

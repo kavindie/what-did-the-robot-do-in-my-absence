@@ -1,0 +1,6 @@
+text='Are there any barrels in the video? Show all colours'
+text='Show all cylindrical objects, specifically barrels'
+text='are there any high-vis jackets? These will be a bright colour'
+text='find any human-shaped objects in the video'
+text='show any stairs in the video'
+text='show any doors in the video'

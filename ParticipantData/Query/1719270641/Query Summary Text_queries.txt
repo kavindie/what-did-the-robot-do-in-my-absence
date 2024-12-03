@@ -1,0 +1,7 @@
+text='What objects did the robot detected? '
+text='How many blue rope bundles were detected?'
+text='How many fire extinguishers were detected?'
+text='How many drills were detected?'
+text='In which way the robot turned at the first 3 way junction?'
+text='Did a robot encountered a path blocked by rocks?'
+text='Did the robot climb any stairs during the run?'

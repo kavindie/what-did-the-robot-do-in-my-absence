@@ -1,0 +1,7 @@
+text='Show where a door was knocked down to pass through'
+text='Show where stairs were encountered'
+text='Who enters the tunnel first'
+text='Blue barrels'
+text='Dummies wearing green high-vis jackes'
+text='white hel,ets'
+text='white helmets'

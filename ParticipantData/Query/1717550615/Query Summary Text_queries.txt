@@ -1,0 +1,4 @@
+text='Are there any ropes in the video? If so what colour are they? Provide time stamps if possible.'
+text='are they are fire extinguishers in the video? If so provide a time stamp'
+text='Think about the shape of a rope. Describe it and then see if there are objects like that in the video. Think carefully about each decision. Provide timestamps.'
+text='Are there any drill-like objects in the scene? If so provide a time stamp. Provide your reasoning.'

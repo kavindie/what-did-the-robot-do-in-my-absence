@@ -1,0 +1,6 @@
+text='How many coils of blue rope were present in the footage'
+text='How many fire extinguishers are present in the footage'
+text='How many orange drills are present and at what time does the first drill appear'
+text='Give me a timestamp for the first orange drill that appears in the footage'
+text='What time does the main junction with three seperate tunnels appear in the video'
+text='are there any stairs appearing in the footage'

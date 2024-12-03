@@ -1,0 +1,7 @@
+text='How many times do you see a blue rope bundle in the video'
+text='how many times does a fire extinguisher appear in the journey?'
+text='How many drills are seen in the journey?'
+text='how many times do you encounter rocks blocking the path'
+text='Are any stairs climbed during this journey?'
+text='When the three-way junction is encountered, which tunnel is chosen?'
+text='Is it the tunnel on the left, right or middle'

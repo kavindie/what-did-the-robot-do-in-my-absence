@@ -1,0 +1,7 @@
+text='blue barrel'
+text='green jacket'
+text='dummy'
+text='white helmet'
+text='robot before'
+text='stair'
+text='door'
