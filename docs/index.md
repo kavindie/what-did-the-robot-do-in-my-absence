@@ -28,7 +28,7 @@ storyboards, short videos, or text to help a user review the robots’ autonomou
 
 ### Video
 
-<video  width="60%" controls>
+<video  width="100%" controls>
   <source src="media/video_attachement.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
