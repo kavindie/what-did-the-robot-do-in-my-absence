@@ -305,7 +305,7 @@ text_Q = """\
 1717386850	2	0	0	?	Yes - successfully	No	1	0	1	1 spot	?	?	1	>2	>2	Left	Yes	Yes
 1717550615	0	0	?	?	Yes - successfully	No	1	?	?	?	No	?	0	1	1	?	?	?
 1717553072	2	0	1	?	Yes - successfully	No	1	0	>2	1 spot and 1 ATR	No	Yes	>2	>2	>2	?	Yes	Yes
-1717638789	2	0	1	?	Yes - successfully	No	1	0	>2	No one	No	Yes	>2	2	2	Left	Yes	No
+1717638789	2	0	1	?	Yes - successfully	No	1	0	>2	No one	No	Yes	>2	Not sure	Not sure	Left	Yes	No
 1717649161	0	0	0	?	Yes - successfully	?	1	0	1	1 spot	No	Yes	>2	>2	1	Not sure	?	No
 1717721673	?	0	1	No one	Yes - successfully	No	1	0	1	1 spot	No	Yes	>2	2	1	Left	Yes	No
 1718065519	2	0	1	No one	Yes - successfully	No	1	0	>2	1 spot and 1 ATR	No	Yes	>2	>2	1	Left	Yes	No
