@@ -5,7 +5,7 @@
 [Preprint can be found in arxiv.](https://arxiv.org/abs/2411.10016)
 
 ## Abstract
-This paper investigates the application of Video
+This paper investigates the use of Video
 Foundation Models (ViFMs) for generating robot data summaries
 to enhance intermittent human supervision of robot
 teams. We propose a novel framework that produces both
@@ -20,14 +20,18 @@ query-driven summaries significantly improve retrieval accuracy
 compared to generic summaries or raw data, albeit with
 increased task duration. Storyboards are found to be the most
 effective presentation modality, especially for object-related
-queries. This work represents, to our knowledge, the first zeroshot
-application of ViFMs for generating multi-modal robotto-
-human communication in intermittent supervision contexts,
-demonstrating both the promise and limitations of these models
-in human-robot interaction (HRI) scenarios.
+queries. 
 
 ![image](https://github.com/user-attachments/assets/574afb0f-dd58-4f84-ac13-f34dba0f0bff)
 Fig. 1: Diagram of the proposed robot summary generation system. The system generates generic or query-driven summaries of long egocentric robot videos in the form of
 storyboards, short videos, or text to help a user review the robots’ autonomous history.
 
-### VIDEO, DATASET & ANALYSIS COMING UP!
+### Video
+
+<video width="320" height="240" controls>
+  <source src="media/video_attachement.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+### ANALYSIS COMING UP!
+
