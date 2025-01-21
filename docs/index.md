@@ -1,6 +1,9 @@
 # ‘What did the Robot do in my Absence?’ <br /> Video Foundation Models to Enhance Intermittent Supervision
 
-## [Kavindie Katuwandeniya](https://people.csiro.au/k/k/kavi-katuwandeniya), [Leimin Tian](https://tianleimin.github.io/), and [Dana Kulic](https://www.monash.edu/engineering/danakulic).
+## [Kavindie Katuwandeniya](https://people.csiro.au/k/k/kavi-katuwandeniya)[^affil_csiro], [Leimin Tian](https://tianleimin.github.io/)[^affil_csiro], and [Dana Kulic](https://www.monash.edu/engineering/danakulic)[^affil_monash].
+
+[^affil_csiro]: CSIRO Robotics, Clayton, Melbourne, Australia
+[^affil_monash]: Monash University, Clayton, Melbourne, Australia
 
 [Preprint can be found in arxiv.](https://arxiv.org/abs/2411.10016)
 
